@@ -1,4 +1,4 @@
-# Sample Snack app
+# React Native Accessibility Example Button
 
 Take a look to the live example here:
 
